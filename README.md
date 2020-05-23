@@ -1,2 +1,2 @@
-Example of dlauncher:
+## Dlauncher example
 ![](example.png)
